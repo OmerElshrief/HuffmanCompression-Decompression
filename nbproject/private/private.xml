@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/O:/Term%207/Algorithms/Project%201/Huffman%20Compression%20&amp;%20Decompression/src/huffman/compression/decompression/HuffmanNode.java</file>
+            <file>file:/O:/Term%207/Algorithms/Project%201/Huffman%20Compression%20&amp;%20Decompression/src/huffman/compression/decompression/HuffmanNodeBinary.java</file>
+            <file>file:/O:/Term%207/Algorithms/Project%201/Huffman%20Compression%20&amp;%20Decompression/src/file/handler/BitWriter.java</file>
+            <file>file:/O:/Term%207/Algorithms/Project%201/Huffman%20Compression%20&amp;%20Decompression/src/huffman/compression/decompression/MainForm.java</file>
+            <file>file:/O:/Term%207/Algorithms/Project%201/Huffman%20Compression%20&amp;%20Decompression/src/huffman/compression/decompression/MyComparatorBinary.java</file>
+            <file>file:/O:/Term%207/Algorithms/Project%201/Huffman%20Compression%20&amp;%20Decompression/src/huffman/compression/decompression/filefactory/FileWriter.java</file>
+            <file>file:/O:/Term%207/Algorithms/Project%201/Huffman%20Compression%20&amp;%20Decompression/src/huffman/compression/decompression/FolderCompression.java</file>
+            <file>file:/O:/Term%207/Algorithms/Project%201/Huffman%20Compression%20&amp;%20Decompression/src/huffman/compression/decompression/MyComparator.java</file>
+            <file>file:/O:/Term%207/Algorithms/Project%201/Huffman%20Compression%20&amp;%20Decompression/src/huffman/compression/decompression/FileCompressor.java</file>
+            <file>file:/O:/Term%207/Algorithms/Project%201/Huffman%20Compression%20&amp;%20Decompression/src/huffman/compression/decompression/HuffmanCompressionDecompression.java</file>
+            <file>file:/O:/Term%207/Algorithms/Project%201/Huffman%20Compression%20&amp;%20Decompression/src/huffman/compression/decompression/FileCompressorBinary.java</file>
+            <file>file:/O:/Term%207/Algorithms/Project%201/Huffman%20Compression%20&amp;%20Decompression/src/huffman/compression/decompression/FileDecompressor.java</file>
+            <file>file:/O:/Term%207/Algorithms/Project%201/Huffman%20Compression%20&amp;%20Decompression/src/file/handler/BinaryFileReader.java</file>
+            <file>file:/O:/Term%207/Algorithms/Project%201/Huffman%20Compression%20&amp;%20Decompression/src/huffman/compression/decompression/TreeBuilder.java</file>
+            <file>file:/O:/Term%207/Algorithms/Project%201/Huffman%20Compression%20&amp;%20Decompression/src/file/handler/BitReader.java</file>
+            <file>file:/O:/Term%207/Algorithms/Project%201/Huffman%20Compression%20&amp;%20Decompression/src/huffman/compression/decompression/filefactory/FileReader.java</file>
+        </group>
+    </open-files>
+</project-private>

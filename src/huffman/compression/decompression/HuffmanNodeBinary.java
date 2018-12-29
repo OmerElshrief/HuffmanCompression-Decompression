@@ -9,14 +9,14 @@ package huffman.compression.decompression;
  *
  * @author Omar
  */
-public class HuffmanNode
+public class HuffmanNodeBinary
 {
     int w;
-    char data;
-    HuffmanNode left;
-    HuffmanNode right;
+    String data;
+    HuffmanNodeBinary left;
+    HuffmanNodeBinary right;
 
-    public HuffmanNode(int w, char data)
+    public HuffmanNodeBinary(int w, String data)
     {  
         this.w = w;
         this.data = data;
@@ -24,7 +24,7 @@ public class HuffmanNode
         right = null;
     }
 
-    public HuffmanNode(int w, HuffmanNode left, HuffmanNode right)
+    public HuffmanNodeBinary(int w, HuffmanNodeBinary left, HuffmanNodeBinary right)
     {
         this.w = w;
         this.data = data;
@@ -44,32 +44,32 @@ public class HuffmanNode
         this.w = w;
     }
 
-    public char getData()
+    public String getData()
     {
         return data;
     }
 
-    public void setData(char data)
+    public void setData(String data)
     {
         this.data = data;
     }
 
-    public HuffmanNode getLeft()
+    public HuffmanNodeBinary getLeft()
     {
         return left;
     }
 
-    public void setLeft(HuffmanNode left)
+    public void setLeft(HuffmanNodeBinary left)
     {
         this.left = left;
     }
 
-    public HuffmanNode getRight()
+    public HuffmanNodeBinary getRight()
     {
         return right;
     }
 
-    public void setRight(HuffmanNode right)
+    public void setRight(HuffmanNodeBinary right)
     {
         this.right = right;
     }
